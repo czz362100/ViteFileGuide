@@ -1,0 +1,19 @@
+{
+  "name": "vitefileguide",
+  "version": "1.0.0",
+  "description": "Vite项目文件结构和功能指南",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czz362100/ViteFileGuide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czz362100/ViteFileGuide/issues"
+  },
+  "homepage": "https://github.com/czz362100/ViteFileGuide#readme"
+}
