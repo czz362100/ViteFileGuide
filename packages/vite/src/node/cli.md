@@ -186,5 +186,3 @@ const convertHost = (v: any) => {
 ```
 
 - **辅助函数 - cleanOptions, convertHost, filterDuplicateOptions**：定义了一些辅助函数，用于清理和处理命令行选项。
-
-通过以上的图解和说明，可以更清晰地理解 `packages/vite/src/node/cli.ts` 文件的整体流程和每个函数的具体作用。
