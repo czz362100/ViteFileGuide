@@ -1,4 +1,3 @@
-为了更好地理解 `packages/vite/src/node/build.ts` 文件的整体流程和 `build` 函数的具体执行步骤，我们可以使用 Mermaid 来绘制一个详细的流程图，并详细说明每个步骤的作用。
 ### 调用流程图
 
 ```mermaid
