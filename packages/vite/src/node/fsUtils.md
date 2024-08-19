@@ -156,5 +156,3 @@ function getDirentCacheFromPath(
 
 - **路径处理 - pathUntilPart**：根据路径部分构建完整路径。
 - **从路径获取目录项缓存 - getDirentCacheFromPath**：从路径获取目录项缓存，以便快速访问目录内容。
-
-通过以上的流程图和详细说明，可以更清晰地理解 `packages/vite/src/node/fsUtils.ts` 文件的整体流程和每个函数的具体作用。
