@@ -1,3 +1,4 @@
+`packages/vite/src/node/config.ts` 的作用是定义 Vite 的配置文件解析和合并逻辑。
 ### 文件结构概览
 
 1. **全局声明和变量初始化**
