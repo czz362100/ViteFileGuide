@@ -1,3 +1,4 @@
+`packages/vite/src/node/build.ts` 文件在 Vite 项目中主要负责处理项目的构建过程。它包含了构建配置的解析、构建插件的加载、以及最终的打包输出等核心功能
 ### 调用流程图
 
 ```mermaid
